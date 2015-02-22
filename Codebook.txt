@@ -36,3 +36,4 @@ std(): Standard deviation
 It should be noted that when you review the variables used in the dataset, some of the column names do not line up exactly with the variables listed above.
 For example "fBodyBodyAccJerkMag-mean()" is shown in the dataset, but using the variables above, one would have expected it to be "fBodyAccJerkMag-mean()"
 The differences are subtle, and the user should still be able to tell what the variables are, therefore, these differences were not updated.
+The values in the submitted data set is the mean of each variable for the "subject/activity_description" combination.
